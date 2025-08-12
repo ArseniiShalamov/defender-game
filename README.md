@@ -3,7 +3,7 @@
 A small **browser game** written in plain JavaScript.  
 Goal: defend the field against incoming enemies and survive as long as you can.
 
-**Live demo:** <PASTE_YOUR_PAGES_URL_HERE>
+**Live demo:** [<PASTE_YOUR_PAGES_URL_HERE>](https://arseniishalamov.github.io/defender-game/)
 
 > To get the URL: open the repo → right side **Deployments → github-pages → View deployment** and copy the link.
 
